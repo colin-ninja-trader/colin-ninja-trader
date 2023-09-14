@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @colin-ninja-trader
 - 👀 I’m interested in Scala (and many other topics)
-- 🌱 I’m currently learning Akka (Or at least I am interested in learning more about our Akka deployment)
+- 🌱 I’m currently learning Akka
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me colin.williams@ninjatrader.com
 
